@@ -1,0 +1,7 @@
+﻿  main.cpp
+  Wisielec.cpp
+C:\Users\thole\Desktop\Programowanie\Projekt 1\Wisielec.cpp(15,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\thole\Desktop\Programowanie\Projekt 1\Wisielec.cpp(146,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\thole\Desktop\Programowanie\Projekt 1\Wisielec.cpp(150,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+  Projekt 1.vcxproj -> C:\Users\thole\Desktop\Programowanie\Projekt 1\Debug\Projekt 1.exe
