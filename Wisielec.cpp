@@ -1,5 +1,4 @@
 #include "Wisielec.h"
-#include <algorithm>
 
 int Wisielec::zwroc_stan_gry() { return stan_gry; }
 
