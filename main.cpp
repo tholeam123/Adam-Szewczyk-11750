@@ -1,9 +1,3 @@
-#include <iostream>
-#include <string>
-#include <cstdio>
-#include <cstring>
-#include <cctype>
-#include <algorithm> 
 #include "Wisielec.h"
 
 using namespace std;
